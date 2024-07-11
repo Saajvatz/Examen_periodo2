@@ -1,0 +1,12 @@
+body {
+    margin: auto;
+    max-width: 100%;
+    height: 98rem;
+    display: grid;
+    grid-template-columns: 110rem 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    row-gap: 20px;
+
+
+}
+

@@ -1,0 +1,21 @@
+.header {
+    
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    gap: 375x;
+    grid-column: 0/3    ;
+    grid-row: 0/2;  
+    border: solid 2px black; 
+    
+}
+
+.h1 usuario{
+    height: 50px;
+    width: 50px;
+}
+
+.div {
+    align-items: center;
+    justify-content: right;
+}
